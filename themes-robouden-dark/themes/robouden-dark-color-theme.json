@@ -23,6 +23,8 @@
 		"menu.foreground": "#CCCCCC",
 		"panelTitle.activeForeground": "#ffffff",
 		"peekView.border": "#3655b5",
+		"peekViewEditor.background":"#303030",
+		"peekView.border": "#FCEB6C",
 		"pickerGroup.foreground": "#b0b0b0",
 		"sideBar.background": "#353535",
 		"sideBarSectionHeader.background": "#505050",

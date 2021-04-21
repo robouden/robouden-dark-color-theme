@@ -6,7 +6,7 @@
     "engines": {
         "vscode": "^1.31.0"
         },
-    "icon": "images/yr-design-logo-medium-resolution-leaping-cat-128.png",
+    "icon": "yr-design-logo-medium-resolution-leaping-cat-128.png",
     "publisher": "robouden",
     "repository": {
         "type": "git",
